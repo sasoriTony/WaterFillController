@@ -1,0 +1,483 @@
+Cmp-Mod V01 Created by PcbNew   date = 10/27/2022 1:15:10 PM
+
+BeginCmp
+TimeStamp = 6e024350-2863-4f2b-8bf4-5e988e5228e3
+Path = /44c1f3e2-c30c-4914-943d-f6d35a6c34c3
+Reference = Q1;
+ValeurCmp = 2N3904;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline_Wide;
+EndCmp
+
+BeginCmp
+TimeStamp = 0901018f-f3b8-46a3-8b95-29bb27a04fd0
+Path = 
+Reference = 75%;
+ValeurCmp = LOGO;
+IdModule  = LibreriaProyecto:cuadrado_inkscape;
+EndCmp
+
+BeginCmp
+TimeStamp = 0adcdc6a-ebf4-4d3e-9d35-585c3fa4cd25
+Path = /95d54eaa-7146-4a6b-a308-e6005532315e
+Reference = SW1;
+ValeurCmp = SW_SPDT;
+IdModule  = HuellasEasyEda:SW-TH_DEALON_SS-12D01-GX;
+EndCmp
+
+BeginCmp
+TimeStamp = 0cd72bf5-94b6-4af6-9acf-342c203b7aaa
+Path = /8f16db36-f461-478b-b5e2-6f0c6400d0f7
+Reference = R20;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 0dfc8b5d-76e0-4818-b997-c5bf3210ac5e
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = MountingHole:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 11b83235-a1c4-4eca-a8ce-3fd2f4e0379d
+Path = /92dca651-9bdb-4ba8-96e2-40b9a5058c07
+Reference = J3;
+ValeurCmp = TBLOCK-M2;
+IdModule  = HuellasEasyEda:CONN-TH_2P-P9.50_DBT50G-9.5-2P_BORNERA_220VAC_Sasori;
+EndCmp
+
+BeginCmp
+TimeStamp = 18a2a4b6-c665-4ff1-ad14-6fee7ce6d429
+Path = /b68485be-1f6e-4a36-865f-4f343893e5d4
+Reference = R21;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 1adc6cca-c190-4533-b640-8730ef188d3a
+Path = /7b1ba0ce-f4d0-4ee1-aed1-0b7795432b24
+Reference = J2;
+ValeurCmp = TBLOCK-M2;
+IdModule  = HuellasEasyEda:CONN-TH_2P-P9.50_DBT50G-9.5-2P_BORNERA_220VAC_Sasori;
+EndCmp
+
+BeginCmp
+TimeStamp = 2093cb9a-791d-4a51-b73f-6ae0e70968ae
+Path = /e6dfebc1-3066-4114-850c-c1ad4d514bbe
+Reference = R15;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 2696058c-9349-47c2-bfba-f679e2a86274
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = CustomFootprints:tanque_Sasori;
+EndCmp
+
+BeginCmp
+TimeStamp = 2a7c84ac-b741-4c43-bca2-a1c8edb3ce17
+Path = /d7b7751f-49e0-44a9-a62c-fbbc91ad4411
+Reference = R10;
+ValeurCmp = 10kOhm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 2b4154ad-13c4-414a-a20f-2a2eb874486f
+Path = /42921c6f-25e8-4512-9139-83b5b81397a7
+Reference = C2;
+ValeurCmp = 470uF;
+IdModule  = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 2c199b45-40fe-4d12-850b-74ac965d6da7
+Path = 
+Reference = 100%;
+ValeurCmp = LOGO;
+IdModule  = LibreriaProyecto:cuadrado_inkscape;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d178193-e515-452a-a169-dc8fa7e328e0
+Path = /944316f7-9c0d-4d64-8aa2-07e82b66f635
+Reference = R2;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 433f8f9c-254b-40a7-a1fb-5f7605a0b359
+Path = /bd7dc29d-1120-4b3e-9d47-b88a256ff1d4
+Reference = R14;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 45c3e85f-8dc8-4708-a4b3-2256d9742172
+Path = /b75b4244-13c6-4441-a522-9c7355c515cb
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 464b38a8-8659-4284-9c8a-7508d6449afb
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = MountingHole:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 52d1571a-ae8c-4c01-8b81-ca45997cdcd9
+Path = /6b4721b6-32e6-40cd-97a4-c609d03a5c35
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = FootprintsSnapeda:MetallizedPolypropyleneFilmCapacitor;
+EndCmp
+
+BeginCmp
+TimeStamp = 5363146f-afdc-4fb9-8f8a-acb549ecf754
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = MountingHole:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5375d6b2-a6ae-4611-8582-ba84302b4c1f
+Path = /94e8727f-b0cc-4dd7-982f-5e2c94b709ef
+Reference = PS1;
+ValeurCmp = HS-40005;
+IdModule  = HuellasEasyEda:PWRM-TH_TAS5-X-WEDT-CONVERTER-AC-DC_Sasori;
+EndCmp
+
+BeginCmp
+TimeStamp = 53e1059d-6246-44aa-94c4-87fd9d5f2076
+Path = /da85e218-28f5-4e04-9ae0-77a4ed9bdc04
+Reference = R3;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 6348e49b-96d1-421d-97f3-0b5b6f104bfb
+Path = /73872e39-ae4d-44e4-b9c1-d79891d9d4d4
+Reference = R6;
+ValeurCmp = 470Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 66f4f369-31c2-4335-8a76-ae3d451cad39
+Path = /a16af4bb-8bec-470e-b82f-2f7146a6f15c
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 69f91034-f542-4746-9110-70f73d0c116a
+Path = 
+Reference = REF**;
+ValeurCmp = HSINK_SK_95_25_STS_TO_220;
+IdModule  = FootprintsSnapeda:HSINK_20_15_11_mm_TO_220;
+EndCmp
+
+BeginCmp
+TimeStamp = 6f1c14dc-7a4d-479c-87b3-8dc047be740a
+Path = /185e829f-2552-4105-840f-92799e71a280
+Reference = R11;
+ValeurCmp = 10kOhm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 6f39ffda-af10-4c97-90f6-dc5d029ecf27
+Path = /c1942691-6305-4779-93ee-6d7a7d5714ac
+Reference = U4;
+ValeurCmp = MOC3021;
+IdModule  = HuellasEasyEda:DIP-6_L8.5-W6.4-P2.54-LS7.6-BL_MOC3021;
+EndCmp
+
+BeginCmp
+TimeStamp = 6f4f9cc8-9c2d-40f7-a126-2876871b732c
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = MountingHole:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 77078ea9-e30a-4797-8f67-8eb95138506c
+Path = /6ba69b5a-afe1-4b37-aed9-b9e3246d3afa
+Reference = R18;
+ValeurCmp = 1kOhm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 7781e616-19f2-4a7f-b52a-58454d349eb5
+Path = /02251892-37f2-417e-ab4c-0c2a9cbec4e6
+Reference = R1;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 7806b4b1-80ce-497a-a0c5-ca26578e15b4
+Path = /58cca49e-2e98-4462-b534-3357e29a0017
+Reference = R23;
+ValeurCmp = 10kOhm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 7883d5d6-85f2-4e5d-8771-550b5771dfef
+Path = /011bb3f0-e5ff-45cd-86b5-9deb67067889
+Reference = R9;
+ValeurCmp = 10kOhm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = 7a2b16e1-64dd-46c9-8414-4e5d05c5cbeb
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = MountingHole:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 85e2e89e-5a75-4fbe-8784-2cb81062eb13
+Path = /99780b19-f7de-426c-b522-e2cd7e34e631
+Reference = U1;
+ValeurCmp = SN74HC00N;
+IdModule  = HuellasEasyEda:DIP-14_L19.0-W7.0-P2.54-LS7.6-BL;
+EndCmp
+
+BeginCmp
+TimeStamp = 9b2dd3fe-5500-45bd-abdb-dbe96e419aa5
+Path = /a1fd7cf2-0fed-4fc8-95ff-67cab909a3b6
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9f9cf42c-3de5-40c5-9946-899ea328690c
+Path = /9ea64726-076c-45c0-a6a2-6560ed556e3b
+Reference = J1;
+ValeurCmp = Screw_Terminal_01x03;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = a0654a64-2153-4baf-8697-6289f4ffaa6d
+Path = /62461801-76c9-4d2c-8a69-762ead93c2ca
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a0c4ea33-f37b-4123-93aa-e892948376ec
+Path = /5a8dfac0-896b-4544-90e9-c4c988d49e0e
+Reference = R7;
+ValeurCmp = 10kOhm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = a6ced22c-0af6-4e37-8438-416f8ba48a3f
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = MountingHole:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a7d2b956-9b6c-4a78-be54-0d39186c7e56
+Path = /534f2474-5b2d-4570-9d19-94c208321c2d
+Reference = D8;
+ValeurCmp = TXDV1212;
+IdModule  = HuellasEasyEda:TO-220-3_L10.0-W4.5-P2.54-L_TRIAC;
+EndCmp
+
+BeginCmp
+TimeStamp = b3ac2f8a-3614-46c4-b2b7-743f04932db6
+Path = /35dea4d2-7953-4bd0-87f6-6949b5324b8f
+Reference = R4;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = bd613402-79ee-4e2c-a078-a8dcfdf3248a
+Path = /1d60ad22-c823-4922-b7ce-7d832ec738ac
+Reference = R19;
+ValeurCmp = 10kOhm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = bf396c50-fa76-4080-bf4a-fb6ff168f82e
+Path = /c0a136df-d91a-4e18-9bf8-78087246f6d1
+Reference = R22;
+ValeurCmp = 470Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = c109a71f-27a2-45d9-964a-83ab92338044
+Path = 
+Reference = 0%;
+ValeurCmp = LOGO;
+IdModule  = LibreriaProyecto:cuadrado_inkscape;
+EndCmp
+
+BeginCmp
+TimeStamp = c67bd9c1-66fe-470f-86a2-dc09fe0f582c
+Path = /f4e45815-f802-459e-b54b-adbd10d067bb
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d0a18db8-2686-4b8a-ae3f-34e25c6b64d3
+Path = /6534abdd-f321-443d-a391-c00ddf61f5e8
+Reference = R5;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = d3edb8ac-449f-4f83-b682-9c25167e8d14
+Path = /739ea1f8-cdea-420a-8d3a-4b30fb9859c1
+Reference = SW2;
+ValeurCmp = SW_SPDT;
+IdModule  = HuellasEasyEda:SW-TH_DEALON_SS-12D01-GX;
+EndCmp
+
+BeginCmp
+TimeStamp = d41a9ed1-922c-4b92-9e27-cbcd6cafe66d
+Path = /b76e3e1d-22a6-485f-8f6e-9c37d7fdff22
+Reference = R17;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = dd40c2cb-d90b-4d7d-8182-c95c1f723895
+Path = /689d1461-c929-4dc9-8465-b78298969cb1
+Reference = U5;
+ValeurCmp = ULN2803;
+IdModule  = HuellasEasyEda:DIP-18_L23.0-W6.5-P2.54-LS7.6-BL;
+EndCmp
+
+BeginCmp
+TimeStamp = e0435aa3-0414-42a5-bcaa-e3b6a2987b4f
+Path = /ca46867f-f29c-4555-b788-70c1a4cfe277
+Reference = R12;
+ValeurCmp = 10kOhm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = e1699b8b-182e-45f7-afc6-b58b7a49f628
+Path = /4463262c-9a9b-4b2b-994c-f5529f453b97
+Reference = S1;
+ValeurCmp = BUTTON;
+IdModule  = FootprintsSnapeda:SW_BUTT-2;
+EndCmp
+
+BeginCmp
+TimeStamp = e7785998-526c-4f3f-b9ff-5f7644e56092
+Path = /26f7a2b4-9129-4c01-a66a-e1087b9af701
+Reference = F1;
+ValeurCmp = 6A;
+IdModule  = HuellasEasyEda:FUSE-TH_L22.6-W9.0;
+EndCmp
+
+BeginCmp
+TimeStamp = e84f7c57-c822-4a66-9045-63b87558823e
+Path = /00946e54-e23a-466e-aae5-2589a54ba8c1
+Reference = U3;
+ValeurCmp = SN74HC14N;
+IdModule  = HuellasEasyEda:DIP-14_L19.1-W6.4-P2.54-LS7.6-BL;
+EndCmp
+
+BeginCmp
+TimeStamp = ead4ea4c-49ea-4df4-af8f-361eb2627817
+Path = /47498872-59ee-4403-b24f-06604363ee13
+Reference = R13;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = f14b2cf2-d82b-4819-bb9f-207b09676ef3
+Path = /9bf51e3d-f1ce-4052-a53d-f14c0b1c3c61
+Reference = R8;
+ValeurCmp = 10kOhm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = f884b466-a495-463a-99ed-713d28e3d791
+Path = /34e45878-125f-4a7b-afbf-8b70fa0a31c7
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = f9008624-877e-4712-bebc-813b53b07743
+Path = /a41e889b-6a80-4eed-971a-da701275c33e
+Reference = R16;
+ValeurCmp = 330Ohm;
+IdModule  = HuellasEasyEda:RES-TH_BD2.2-L6.5-P10.50-D0.9_Carbon;
+EndCmp
+
+BeginCmp
+TimeStamp = f908c17d-1e49-4b02-b7a0-cad83ebd6006
+Path = /99b7ee30-d4cc-4090-b732-a28e629306b9
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = fc1f041f-3496-438d-856f-48d1e6ad8c34
+Path = /17e5481e-9a95-4d4b-b0fc-7cd75e7daca5
+Reference = J4;
+ValeurCmp = Screw_Terminal_01x03;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = ffd85517-a982-4b7d-bc11-d79c4fae9484
+Path = 
+Reference = 25%;
+ValeurCmp = LOGO;
+IdModule  = LibreriaProyecto:cuadrado_inkscape;
+EndCmp
+
+BeginCmp
+TimeStamp = 70615633-9d4a-4044-8fa8-5644a31ab4ad
+Path = 
+Reference = REF**;
+ValeurCmp = KiCad-Logo2_12mm_SilkScreen;
+IdModule  = Symbol:KiCad-Logo2_12mm_SilkScreen;
+EndCmp
+
+EndListe

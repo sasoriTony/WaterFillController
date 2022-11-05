@@ -1,0 +1,5 @@
+*.xml
+*.dsn
+*Gerber/*
+*backups/*
+
