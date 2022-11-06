@@ -11,6 +11,9 @@
     (company "Sasori")
   )
 
+(label "Example change on GitHub (was Project name):)
+
+
   (lib_symbols
     (symbol "BUTT-2:BUTT-2" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "S" (id 0) (at -5.08 3.81 0)
