@@ -2716,7 +2716,7 @@
   
   
   
-  (label "PruebaMain" (at 205.232 50.038 270)
+  (label "Tony" (at 205.232 50.038 270)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 1355d9e1-b865-409b-82ab-8e5ba76aeb13)
   )
