@@ -2711,21 +2711,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 042c3d2c-bc1c-48e9-b24f-e2b999095cf2)
   )
-  
-  
-  
-  
-  
-  (label "Tony" (at 205.232 50.038 270)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 1355d9e1-b865-409b-82ab-8e5ba76aeb13)
-  )
-  
-  
-  
-  
-  
-  
   (label "N44" (at 205.232 50.038 270)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 1355d9e1-b865-409b-82ab-8e5ba76aeb13)
